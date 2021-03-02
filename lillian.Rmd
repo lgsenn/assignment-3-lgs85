@@ -1,0 +1,12 @@
+---
+title: "Lillian"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+* I am a Discipline-based education researcher or DBER.
+* I am from Fresno, CA. 
+* I am a first-generation college student.
