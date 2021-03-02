@@ -1,0 +1,12 @@
+---
+title: "Dave Esparza"
+output: html_document
+---
+
+* I am a Ph.D. Student at Cornell University studying biology education
+* My research focuses on student interactions in field contexts
+* In addition, I am also researching how to support diversity, equity, and inclusion in field-intensive disciplines.
+* I like pie (pecan pie) more than cake.
+
+
+![I also love hiking in my free time.](https://pbs.twimg.com/profile_images/1348141938264969216/ho32oxaw_400x400.jpg)
